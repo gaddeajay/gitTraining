@@ -1,11 +1,1 @@
-commit 293bfd620ce478ce4800f04be925f80467863f60
-Author: gaddeajay <gaddeajay@gmail.com>
-Date:   Wed Apr 20 02:25:47 2022 +0000
-
-    Addded index1.html to LR
-
-commit dd273801a993452a13756cdea21e150c73e8a51a
-Author: gaddeajay <gaddeajay@gmail.com>
-Date:   Wed Apr 20 02:24:03 2022 +0000
-
-    Addded index1.html to LR
+Cleared the Data    
